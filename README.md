@@ -17,4 +17,5 @@ Este repositorio contiene los archivos de configuración, respaldos y documentac
 - `/www_dir.tar.gz`
 - `/backup_dir.tar.gz`
 - `/var` dividido en partes pequeñas (`var_part1`, `var_part2`, etc.)
- [- Diagrama topológico (`diagrama_topologia.png` o `.pdf`)]: #
+
+[- Diagrama topológico (`diagrama_topologia.png` o `.pdf`)]: #
